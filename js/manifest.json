@@ -1,0 +1,7 @@
+{
+  "name": "Wall STreet English",
+  "short_name": "WSE",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
